@@ -79,8 +79,8 @@ return 0;
 
 ```
 # OUTPUT
-<img width="948" height="1009" alt="Screenshot 2025-09-01 135303" src="https://github.com/user-attachments/assets/4188630b-b63e-4676-bf38-3c02ab1e1d56" />
-<img width="736" height="304" alt="Screenshot 2025-09-01 135308" src="https://github.com/user-attachments/assets/4a9cf259-aabb-4800-9da1-4ff02241bc7c" />
+<img width="958" height="1001" alt="image" src="https://github.com/user-attachments/assets/0806837e-65d3-4ae2-a596-6062ffe99f67" />
+<img width="949" height="463" alt="image" src="https://github.com/user-attachments/assets/b9a20f79-ead0-45bb-ad14-dfcbe28a5225" />
 
 
 # RESULT
